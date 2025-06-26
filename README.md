@@ -1,5 +1,15 @@
-# React + Vite
+# BTL DSTT HK243
 
+## Mô tả
+- Website chạy bằng React + Vite
+
+| Link hữu ích     | 
+| ------------- |
+| [Coloors](https://coolors.co/0d1b2a-1b263b-415a77-778da9-e0e1dd)  | 
+| [Website nhà thuốc Long Châu - tham khảo thiết kế](https://nhathuoclongchau.com.vn/)  | 
+|   | 
+
+## React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
@@ -10,3 +20,4 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
