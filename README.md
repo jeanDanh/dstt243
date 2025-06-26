@@ -3,11 +3,11 @@
 ## Mô tả
 - Website chạy bằng React + Vite
 
-| Column 1      | Column 2      | Column 3      |
-| ------------- | ------------- | ------------- |
-| Row 1 Cell 1  | Row 1 Cell 2  | Row 1 Cell 3  |
-| Row 2 Cell 1  | Row 2 Cell 2  | Row 2 Cell 3  |
-| Row 3 Cell 1  | Row 3 Cell 2  | Row 3 Cell 3  |
+| Link hữu ích     | 
+| ------------- |
+| [Coloors](https://coolors.co/0d1b2a-1b263b-415a77-778da9-e0e1dd)  | 
+| [Website nhà thuốc Long Châu - tham khảo thiết kế](https://nhathuoclongchau.com.vn/)  | 
+|   | 
 
 ## React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
