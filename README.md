@@ -1,11 +1,13 @@
 # BTL DSTT HK243
 
+
 ## Cách chạy dự án
-- Tải npm version 10.5.0
-- Chạy npm install để tải các dependencies
+
+- Tải npm version 10.5.0.
+- Chạy npm install.
 - Chạy npm run dev.
-## Danh sách công nghệ tiêu biểu
-|               |
+
+|Danh sách công nghệ được dùng |
 | ------------- |
 | npm |
 | vite |
