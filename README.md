@@ -1,7 +1,17 @@
 # BTL DSTT HK243
 
-## Mô tả
-- Website chạy bằng React + Vite
+## Cách chạy dự án
+- Tải npm version 10.5.0
+- Chạy npm install để tải các dependencies
+- Chạy npm run dev.
+## Danh sách công nghệ tiêu biểu
+|               |
+| ------------- |
+| npm |
+| vite |
+| bootstrap |
+| react |
+
 
 | Link hữu ích     | 
 | ------------- |
