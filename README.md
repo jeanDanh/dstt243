@@ -2,10 +2,12 @@
 
 ## Mô tả
 - Website chạy bằng React + Vite
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+
+| Column 1      | Column 2      | Column 3      |
+| ------------- | ------------- | ------------- |
+| Row 1 Cell 1  | Row 1 Cell 2  | Row 1 Cell 3  |
+| Row 2 Cell 1  | Row 2 Cell 2  | Row 2 Cell 3  |
+| Row 3 Cell 1  | Row 3 Cell 2  | Row 3 Cell 3  |
 
 ## React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
