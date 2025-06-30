@@ -3,16 +3,16 @@
 
 ## Cách chạy dự án
 
-- Tải npm version 10.5.0.
-- Chạy npm install.
-- Chạy npm run dev.
+- Click [link này](https://nodejs.org/dist/v22.17.0/node-v22.17.0-x64.msi) để tải 22.17.0. (Khỏi lo Tiến Vũ, ông tải rồi)
+- Mở dự án bằng VSCode hoặc editor/IDE đang dùng.
+- Chạy npm install để tự động tải hết thư viện xuống.
+- Chạy npm run dev để chạy dự án.
 
-|Danh sách công nghệ được dùng |
+|Thư viện được sử dụng |
 | ------------- |
-| npm |
-| vite |
-| bootstrap |
-| react |
+| bootstrap (CSS class viết sẵn) |
+| react (UI) |
+| ...vâng vâng |
 
 
 | Link hữu ích     | 
