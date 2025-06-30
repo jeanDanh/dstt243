@@ -1,11 +1,13 @@
 # BTL DSTT HK243
 
+
 ## Cách chạy dự án
-- Tải npm version 10.5.0
-- Chạy npm install để tải các dependencies
+
+- Tải npm version 10.5.0.
+- Chạy npm install.
 - Chạy npm run dev.
-## Danh sách công nghệ tiêu biểu
-|               |
+
+|Danh sách công nghệ được dùng |
 | ------------- |
 | npm |
 | vite |
@@ -16,8 +18,7 @@
 | Link hữu ích     | 
 | ------------- |
 | [Coloors](https://coolors.co/0d1b2a-1b263b-415a77-778da9-e0e1dd)  | 
-| [Website nhà thuốc Long Châu - tham khảo thiết kế](https://nhathuoclongchau.com.vn/)  | 
-|   | 
+| [Website nhà thuốc Long Châu - tham khảo thiết kế](https://nhathuoclongchau.com.vn/)  |
 
 ## React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
