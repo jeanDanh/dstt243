@@ -6,7 +6,7 @@
 - Click [link này](https://nodejs.org/dist/v22.17.0/node-v22.17.0-x64.msi) để tải 22.17.0. (Khỏi lo Tiến Vũ, ông tải rồi)
 - Mở dự án bằng VSCode hoặc editor/IDE đang dùng.
 - Chạy npm install để tự động tải hết thư viện xuống.
-- Chạy npm run dev để chạy dự án.
+- Chạy npm run dev để host website.
 
 |Thư viện được sử dụng |
 | ------------- |
