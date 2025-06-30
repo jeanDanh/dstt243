@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-function NavBar() {
+function DummyBootstrap() {
   return (
     <>
       <div class="container-fluid p-5 bg-primary text-white">
@@ -162,7 +162,7 @@ function App() {
 
   return (
     <>
-      <NavBar></NavBar>
+      <DummyBootstrap></DummyBootstrap>
     </>
   )
 }
